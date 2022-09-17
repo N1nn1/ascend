@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "ascend:block/chorus_bulb_bottom"
+  }
+}

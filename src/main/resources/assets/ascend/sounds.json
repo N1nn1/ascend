@@ -1,0 +1,24 @@
+{
+  "block.chorus.hum": {
+    "sounds": [
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum1",
+      "ascend:block/chorus_flower/hum2",
+      "ascend:block/chorus_flower/hum3",
+      "ascend:block/chorus_flower/hum4",
+      "ascend:block/chorus_flower/hum5",
+      "ascend:block/chorus_flower/hum6"
+    ]
+  }
+}

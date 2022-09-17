@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "inverted=true": {
+      "model": "ascend:block/inverted_magnia"
+    },
+    "inverted=false": {
+      "model": "ascend:block/magnia"
+    }
+  }
+}

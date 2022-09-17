@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "ascend:block/chorus_bulb_bottom"
+    },
+    "half=upper": {
+      "model": "ascend:block/chorus_bulb_top"
+    }
+  }
+}
