@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "ascend",
+  "version": "${version}",
+  "name": "Ascend",
+  "description": "ascend.",
+  "authors": [
+    "Ninni"
+  ],
+  "contributors": [
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/ascend",
+    "sources": "https://github.com/N1nn1/ascend",
+    "issues": "https://github.com/N1nn1/ascend/issues"
+  },
+  "custom": {
+    "modmenu": { "links": {
+      "mod.ascend.contact.discord": "https://discord.moddingplayground.net",
+      "mod.ascend.wiki": "https://github.com/N1nn1/ascend/wiki"
+    } }
+  },
+  "license": "MIT",
+  "icon": "assets/ascend/textures/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.ninni.ascend.Ascend" ],
+    "client": [ "com.ninni.ascend.AscendClient" ],
+    "server": []
+  },
+  "mixins": [ "ascend.mixins.json" ],
+  "depends": {
+    "fabricloader": ">=0.14",
+    "fabric": "*",
+    "minecraft": ">=1.19",
+    "java": ">=17"
+  }
+}
